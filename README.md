@@ -14,10 +14,3 @@ Este proyecto consiste en una **API REST** desarrollada en **Golang** diseñada 
 * **Lenguaje:** Go (Golang) 1.20+
 * **Entorno:** Localhost
 * **Formato de Datos:** JSON
-
-## 📦 Instalación y Ejecución
-
-1. **Clonar el repositorio o descargar el archivo:**
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-   cd nombre-del-repo
